@@ -85,11 +85,22 @@ img {
   width: 100%;
 }
 
-video {
-  width: 320px;
-  height: 240px;
+a {
+  color: var(--gin);
+  text-decoration: none;
+  margin-bottom: 3rem;
 }
 
-#justify-center {
-  justify-content: center;
+#justify-center,
+#facebook {
+  text-align: center;
+}
+
+#booking {
+  margin: 2rem;
+  text-align: center;
+}
+
+#facebook {
+  text-align: center;
 }
