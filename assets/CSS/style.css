@@ -87,20 +87,21 @@ img {
 
 a {
   color: var(--gin);
-  text-decoration: none;
   margin-bottom: 3rem;
 }
 
 #justify-center,
 #facebook {
   text-align: center;
+  margin: 3rem;
+}
+
+#facebook {
+  padding: 30px;
+  margin-top: -20px;
 }
 
 #booking {
   margin: 2rem;
-  text-align: center;
-}
-
-#facebook {
   text-align: center;
 }
